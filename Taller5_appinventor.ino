@@ -1,3 +1,4 @@
+// se incluye en github. arduinoIoT
 #include<Servo.h>; // se usa la libreria de servo
 # include <SoftwareSerial.h>; // se usa la libreria software serial para el bluetooth modulo HC05
 SoftwareSerial Bluetooth (4,3); // se crea un objeto de la libreria pin 4 como RX, pin 3 como TX
