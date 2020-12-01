@@ -44,3 +44,7 @@ void loop() {
   }
 }
 // se debe desconectar el arduino para alimentarlo con 5V fuente aparte.
+// conectar primero el smartphone con el modulo HC05 por bluetooth.
+// escanear el codigo QR de appInventor con cualquier lector de QR, para bajar la aplicacion e instalarla
+// en la aplicacion de appInventor conectar el bluetooth desde el listado de dispositivos.
+
